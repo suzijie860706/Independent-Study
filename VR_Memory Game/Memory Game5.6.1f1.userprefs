@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\MemoryGame_Control.cs">
+    <Files>
+      <File FileName="Assets\Script\PuzzleScripts\PC_Script.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\MemoryGame_Control.cs" Line="98" Column="4" />
+      <File FileName="Assets\VRTK\Scripts\Internal\VRTK_Defines.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\startGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\StartToCameraAnim.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\VR_Control.cs" Line="46" Column="34" />
+      <File FileName="Assets\Script\LCD_Collision.cs" Line="1" Column="1" />
+      <File FileName="Assets\VRTK\Scripts\Internal\VRTK_Logger.cs" Line="167" Column="45" />
+      <File FileName="Assets\Script\VR_MenuScript.cs" Line="21" Column="37" />
+      <File FileName="Assets\Script\PuzzleScripts\Control.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

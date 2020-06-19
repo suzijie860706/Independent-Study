@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\VR_Control.cs">
+    <Files>
+      <File FileName="Assets\Script\MemoryGame_Control.cs" Line="150" Column="31" />
+      <File FileName="Assets\Script\cardAnimation.cs" Line="100" Column="55" />
+      <File FileName="Assets\Script\startGame.cs" Line="239" Column="47" />
+      <File FileName="Assets\Script\PuzzleScripts\PC_Script.cs" Line="255" Column="34" />
+      <File FileName="Assets\Script\VR_Control.cs" Line="78" Column="38" />
+      <File FileName="Assets\Script\PuzzleScripts\Control.cs" Line="111" Column="3" />
+      <File FileName="Assets\VRTK\Scripts\Internal\VRTK_Logger.cs" Line="167" Column="21" />
+      <File FileName="Assets\VRTK\Examples\Resources\Scripts\VRTK_ControllerPointerEvents_ListenerExample.cs" Line="41" Column="56" />
+      <File FileName="Assets\Script\StartToCameraAnim.cs" Line="50" Column="32" />
+      <File FileName="Assets\Script\cubeScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\EndGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\LCD_Collision.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\RayPlayerCam.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\RestartGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\VR_MenuScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

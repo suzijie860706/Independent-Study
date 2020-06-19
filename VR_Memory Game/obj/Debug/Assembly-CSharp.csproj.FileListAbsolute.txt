@@ -1,0 +1,132 @@
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\nunit.framework.dll
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\UnityEditor.dll
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\UnityEngine.dll
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\UnityEngine.xml
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\UnityEditor.xml
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\nunit.framework.xml
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\user\Desktop\ABC\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\user\Desktop\ABC\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ABC\obj\Debug\Assembly-CSharp.dll
+C:\Users\user\Desktop\ABC\obj\Debug\Assembly-CSharp.pdb
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\nunit.framework.dll
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\UnityEditor.dll
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.dll
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.xml
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\UnityEditor.xml
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\nunit.framework.xml
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\obj\Debug\Assembly-CSharp.dll
+C:\Users\user\Desktop\練習版\Memory Game5.6.1f1\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\obj\Debug\Assembly-CSharp.dll
+C:\Users\Zijie\Desktop\Memory Game5.6.1f1\obj\Debug\Assembly-CSharp.pdb
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\nunit.framework.dll
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\UnityEditor.dll
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\UnityEngine.dll
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\UnityEngine.xml
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\UnityEditor.xml
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\nunit.framework.xml
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\obj\Debug\Assembly-CSharp.dll
+C:\Users\user\Desktop\107學年度_VR.AR互動學習\VR_Memory Game\obj\Debug\Assembly-CSharp.pdb

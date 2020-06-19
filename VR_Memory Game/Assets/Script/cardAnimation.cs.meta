@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7a57e5c47ee003446b9e5819ba322074
+timeCreated: 1555252347
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _UIscript: {fileID: 1165248860780740, guid: 6307b9ae9dcf92b46a345b17a89cb4cf,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
